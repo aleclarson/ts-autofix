@@ -25,14 +25,13 @@
   "homepage": "https://github.com/ian-craig/ts-autofix#readme",
   "devDependencies": {
     "@types/columnify": "^1.5.1",
-    "@types/commander": "^2.12.2",
     "@types/node": "^17.0.8",
-    "prettier": "^2.5.1"
+    "prettier": "^2.5.1",
+    "typescript": "^4.8.2"
   },
   "dependencies": {
     "chalk": "^4.1.2",
     "columnify": "^1.5.4",
-    "commander": "^8.3.0",
-    "typescript": "^4.5.4"
+    "commander": "^8.3.0"
   }
 }
